@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213084426274",
+    "firebase_url": "https://chatappkoddevstyle.firebaseio.com",
+    "project_id": "chatappkoddevstyle",
+    "storage_bucket": "chatappkoddevstyle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213084426274:android:ffe22d98c6567a87",
+        "android_client_info": {
+          "package_name": "com.diamong.chatapp0702"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213084426274-hsin7850svg6081km290vavq58uo3li0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diamong.chatapp0702",
+            "certificate_hash": "21f4a81630e501b3d8c5578a3d3afa5a67afb4c6"
+          }
+        },
+        {
+          "client_id": "213084426274-brubuvlco06r9m3rr6mieepbcofjhrhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuaGjsDoznVejAIiScd2r9wtlU-1lrPEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213084426274-brubuvlco06r9m3rr6mieepbcofjhrhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
